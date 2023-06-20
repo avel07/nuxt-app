@@ -1,6 +1,6 @@
 <template>
     <header>
-        <navbar />
+        <menu.header />
     </header>
     <slot />
     <footer class="py-5 bg-dark">

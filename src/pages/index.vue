@@ -5,7 +5,7 @@
 <template>
     <!-- Section -->
     <section class="bg-dark py-5">
-        <indexBanner/>
+        <news.list.mainpage/>
     </section>
     <!-- Section-->
     <section class="py-5">
